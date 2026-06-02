@@ -12,4 +12,9 @@
 -->
 
 ## tuzidong-legacy
+
 https://github.com/AliceLoveLab/tuzidong-legacy
+
+## agentic-story-gen
+
+https://github.com/AliceLoveLab/agentic-story-gen
